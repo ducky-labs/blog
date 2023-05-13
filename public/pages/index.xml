@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Pages on DuckyLabs Blog</title>
+    <link>http://example.org/pages/</link>
+    <description>Recent content in Pages on DuckyLabs Blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 28 Feb 2019 00:00:00 +0000</lastBuildDate><atom:link href="http://example.org/pages/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>About</title>
+      <link>http://example.org/pages/about/</link>
+      <pubDate>Thu, 28 Feb 2019 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/pages/about/</guid>
+      <description>About Me (Ducky) Hey there! Welcome to the DuckyLabs blog, where I dive into the fascinating world of development, tech, and all things nerdy. I&amp;rsquo;m Ducky, a self-taught developer who has been tinkering with code for over five years. Yes, you read that right—this tech journey has been driven solely by my own curiosity and free will.
+A Passion for Tech Since childhood, I&amp;rsquo;ve had an unwavering passion for all things tech.</description>
+    </item>
+    
+  </channel>
+</rss>
