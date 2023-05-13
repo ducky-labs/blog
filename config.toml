@@ -47,27 +47,27 @@ disqusShortname = ''
     weight = 30
 
 [params]
-  sitename = "Awesome hugo blog"
+  sitename = "DuckyLabs Blog"
   defaultColor = "dark" # set color mode: dark, light, auto
   # Setting it to 'auto' applies the color scheme based on the visitor's device color preference.If you don't specify anything, ignore this parameter, or leave it blank,
   # the default value is set to 'auto'.
   # You can take a look at layouts/index.html for more information.
-  description = "Minimal Hugo blog theme with light and dark mode support"
+  description = "A blog built by Ducky powered by Hugo and the hugo-blog-awesome theme"
   mainSections = ['posts']
-  toc = true # set to false to disable table of contents 'globally'
+  toc = false # set to false to disable table of contents 'globally'
   goToTop = true # set to false to disable 'go to top' button
 
 [params.author]
   avatar = "avatar.jpg" # put the file in assets folder; also ensure that image has same height and width
   # Note: image is not rendered if the resource(avatar image) is not found. No error is displayed.
-  intro = "Ducky's blog"
+  intro = "Ducky's Blog"
   name = "Ducky"
   description = "A place for a passionate self-taught developer, to share tutorials, insights, and nerdy adventures in the world of tech and development."
 
 # Allow to override webmanifest options
 [params.webmanifest]
-  name = "sitename" # will use "params.sitename" or "title" by default
-  short_name = "sitename" # same as name
+  name = "DuckyLabs Blog" # will use "params.sitename" or "title" by default
+  short_name = "DuckyLabs" # same as name
   start_url = "/" # will use homepage url by default
   theme_color = "#434648" # default is "#434648" (base color of text). Also will override html `<meta name="theme-color" />`
   background_color = "#fff" # by default depend on "params.defaultColor" for "light" or "auto" will be set to "#fff" for dark will be "#131418" (color of dark mode background)
