@@ -1,8 +1,9 @@
 ---
 title: About
 description: 'About Ducky and the DuckyLabs blog'
-date: '2019-02-28'
+date: '2023-05-11'
 author: Ducky Dev
+toc: true
 ---
 
 # About Me (Ducky)
