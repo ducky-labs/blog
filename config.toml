@@ -91,3 +91,15 @@ url = "https://github.com/ducky-labs/blog"
 name = "gitea"
 url = "https://git.duckylabs.xyz/"
 
+[[params.socialIcons]]
+name = "twitter"
+url = "https://twitter.com/DuckyDev007"
+
+[[params.socialIcons]]
+name = "discord"
+url = "https://discord.com/users/1086163625451986954"
+
+[[parms.socialIcons]]
+name = "matrix"
+url = "https://matrix.to/#/@duckydev:matrix.org"
+
