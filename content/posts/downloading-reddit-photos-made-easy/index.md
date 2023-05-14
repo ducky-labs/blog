@@ -72,7 +72,7 @@ I am committed to making RWPP one of the best Reddit photo downloaders out there
 
 ## Open Source and Acknowledgments
 
-[RWPP](https://git.duckylabs.xyz/DuckyLabs/rwpp) is an open-source program, which means you can contribute to its development or create your own fork. To follow development more closely or to fork/contribute to the project, find the [source repo here](https://git.duckylabs.xyz/DuckyLabs/rwpp), located on a self-hosted instance of [Forgejo] (a community mainted fork of [Gitea](https://gitea.io)).
+[RWPP](https://git.duckylabs.xyz/DuckyLabs/rwpp) is an open-source program, which means you can contribute to its development or create your own fork. To follow development more closely or to fork/contribute to the project, find the [source repo here](https://git.duckylabs.xyz/DuckyLabs/rwpp), located on a self-hosted instance of [Forgejo](https://codeberg.org/forgejo/forgejo) (a community mainted fork of [Gitea](https://gitea.io)).
 
 I want to give a special shout out to the developers of the [Typer](https://typer.tiangolo.com/) and [Redditwarp](https://github.com/Pyprohly/redditwarp) Python packages for their valuable *indirect* contributions by providing such lovely libraries to work with.
 
